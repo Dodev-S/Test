@@ -1,0 +1,9 @@
+c:\users\user23\documents\visual studio 2015\Projects\CSharp-Advanced-Topics-8\Problem7\bin\Debug\Problem7.exe.config
+c:\users\user23\documents\visual studio 2015\Projects\CSharp-Advanced-Topics-8\Problem7\bin\Debug\Problem7.exe
+c:\users\user23\documents\visual studio 2015\Projects\CSharp-Advanced-Topics-8\Problem7\bin\Debug\Problem7.pdb
+c:\users\user23\documents\visual studio 2015\Projects\CSharp-Advanced-Topics-8\Problem7\obj\Debug\Problem7.csprojResolveAssemblyReference.cache
+c:\users\user23\documents\visual studio 2015\Projects\CSharp-Advanced-Topics-8\Problem7\obj\Debug\Problem7.exe
+c:\users\user23\documents\visual studio 2015\Projects\CSharp-Advanced-Topics-8\Problem7\obj\Debug\Problem7.pdb
+C:\Users\Skynet\Documents\Visual Studio 2015\Projects\Basics\CSharp-Advanced-Topics-8\Problem7\bin\Debug\Problem7.exe.config
+C:\Users\Skynet\Documents\Visual Studio 2015\Projects\Basics\CSharp-Advanced-Topics-8\Problem7\obj\Debug\Problem7.exe
+C:\Users\Skynet\Documents\Visual Studio 2015\Projects\Basics\CSharp-Advanced-Topics-8\Problem7\obj\Debug\Problem7.pdb
